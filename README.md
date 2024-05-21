@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Halcyon Logo" src="https://raw.githubusercontent.com/hichemfantar/halcyon-zed/master/images/logo.png" width="100" />
+  <img alt="Halcyon Logo" src="https://raw.githubusercontent.com/hichemfantar/halcyon-zed/master/assets/images/logo.png" width="100" />
 </p>
 <h1 align="center">
   Halcyon Theme for Zed
@@ -8,7 +8,7 @@
   A minimal, dark blue theme for <a href="https://halcyon-theme.netlify.app/">Zed, VS Code, Sublime Text, Atom, and more</a>.
 </p>
 
-![demo](https://raw.githubusercontent.com/hichemfantar/halcyon-zed/master/images/demo.png)
+![demo](https://raw.githubusercontent.com/hichemfantar/halcyon-zed/master/assets/images/demo.png)
 
 ## Installation via Zed
 
