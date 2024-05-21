@@ -5,7 +5,7 @@
   Halcyon Theme for Zed
 </h1>
 <p align="center">
-  A minimal, dark blue theme for <a href="https://halcyon-theme.netlify.app/">Zed, VS Code, Sublime Text, Atom, and more</a>.
+  A minimal, dark blue theme for <a href="https://github.com/zed-industries/zed">Zed</a>.
 </p>
 
 ![demo](https://raw.githubusercontent.com/hichemfantar/halcyon-zed/master/assets/images/preview.png)
