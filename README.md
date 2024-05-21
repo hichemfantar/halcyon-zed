@@ -59,4 +59,6 @@ Read the [Zed User Themes Guide](https://zed.dev/blog/user-themes-now-in-preview
 
 ## Credits
 
+Inspired by [Halcyon, The VS Code theme](https://github.com/bchiang7/halcyon-vscode)
+
 Halcyon is also available for [VS Code, Sublime Text, Atom, iTerm, and more!](https://halcyon-theme.netlify.app/).
