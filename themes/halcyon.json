@@ -112,7 +112,7 @@
 				"hidden.background": null,
 				"hidden.border": null,
 				"hint": "#8695b799",
-				"hint.background": null,
+				"hint.background": "#171c28",
 				"hint.border": null,
 				"ignored": "#8695b777",
 				"ignored.background": null,
