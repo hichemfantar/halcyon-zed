@@ -3,5 +3,5 @@ name = "Halcyon Theme"
 schema_version = 1
 version = "0.2.0"
 authors = ["Hichem Fantar <fantar.hichem@gmail.com>"]
-description = "🦀 A minimal, dark blue theme for Zed"
+description = "🌊 A minimal, dark blue theme for Zed"
 repository = "https://github.com/hichemfantar/halcyon-zed"
