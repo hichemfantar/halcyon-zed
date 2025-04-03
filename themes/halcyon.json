@@ -177,13 +177,13 @@
 					"comment": {
 						"color": "#8695b799",
 						"background_color": null,
-						"font_style": "italic",
+						"font_style": null,
 						"font_weight": null
 					},
 					"comment.doc": {
 						"color": "#8695b799",
 						"background_color": null,
-						"font_style": "italic",
+						"font_style": null,
 						"font_weight": null
 					},
 					"constant": {
@@ -201,7 +201,7 @@
 					"emphasis": {
 						"color": "#ef6b73",
 						"background_color": null,
-						"font_style": "italic",
+						"font_style": null,
 						"font_weight": null
 					},
 					"emphasis.strong": {
@@ -339,7 +339,7 @@
 					"variable.special": {
 						"color": "#5ccfe6",
 						"background_color": null,
-						"font_style": "italic",
+						"font_style": null,
 						"font_weight": null
 					}
 				}
