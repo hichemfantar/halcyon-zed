@@ -27,8 +27,8 @@ Read the [Zed User Themes Guide](https://zed.dev/docs/themes)
 
 |                                 Color                                  | Usage                                           |
 | :--------------------------------------------------------------------: | ----------------------------------------------- |
-| <mark style="background: #c3a6ff;">`#c3a6ff`</mark> | Keywords, constants, template literals          |
-| <mark style="background: #ffd580;">`#ffd580`</mark> | Functions, classes, object literal keys         |
+| <mark style="background: #c3a6ff;">#c3a6ff</mark> | Keywords, constants, template literals          |
+| <mark style="background: #ffd580;">#ffd580</mark> | Functions, classes, object literal keys         |
 | <mark style="background: #ffae57;">`#ffae57`</mark> | Constants, operators                            |
 | ![#bae67e](https://via.placeholder.com/10/bae67e.png?text=+) `#bae67e` | Strings, markdown headings                      |
 | ![#5ccfe6](https://via.placeholder.com/10/5ccfe6.png?text=+) `#5ccfe6` | Special keywords, classes, markdown code blocks |
